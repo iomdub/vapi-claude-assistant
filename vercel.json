@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/vapi-webhook.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
